@@ -1,0 +1,775 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7c81fd74f453a5bddd6a94799ea18850/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4dae4506adf3b11c1e1b2d1edf0c2362/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/26d4f033b674f6123140871ed9f09cab/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:clevertap-react-native] /Users/rameshwar/Downloads/clevertap-react-native-integration-master/node_modules/clevertap-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native:0.67.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5741f2fb84ce93459299e9f460d34c11/transformed/jetified-react-native-0.67.5/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6ca7d0978d86906de9b8a413af67e164/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-analytics:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cb2738010cb57f6540c883ef8b6cb62c/transformed/jetified-firebase-analytics-20.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:2:1-20:12
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e56eb293746cf704f710ae0aa4b3dc96/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:17:1-58:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8ca09e7311fae95b0d3edd703b70c54f/transformed/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ee7460048d65334aacc82e00cf59cbb0/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6e4c5604f2de5ecce1a81434d940671e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/d766b70a93d8eef8a21216c4b7fc9202/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/683c31a8857258abee0df7fa6d08895d/transformed/jetified-installreferrer-2.2/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/bc2fdebb5a86e916c80fc429f5a21a68/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4d2d0425e71101512dcb2e15702447d6/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/94d2fdd87ec6ccfb5e7b54f6061d925a/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc55e19b0aeeaf0116cb777fb146b91/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/833d8dee58b9cd7fc7c8afdd1243f6a1/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/48d6dfdaf25053426eaa8a933687bc91/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f761f8b770cb3d9b4d37523c08e2e3d5/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e138067abc67a1e64b396549a333fec4/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4fb7c88c5c9d0b4237b8a15308417290/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8cda73b75cbf04c86208101a292bbdb6/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e6670a0802ae35352197edb31b089508/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/0f827931bb3e3fee2aba242687b279e7/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b5a88e293a08d498f34574fe778fb43d/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/2dc0a3b1ec04cbac6c2d2ceb72dc5125/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/551fa5c2d593a07fb30a5ca332b5403a/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/254a005f5614ca237608e514a0228146/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6187823ee53c2b6550efddc21a42a66f/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/2ed5a02203f492e191f0230c938a9f48/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/47ae96932092e6893d9c6d6efd0d4d07/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3bc9a97543c62a581c9c4e817eef60fc/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b1806be4f851c8698f62b32bfc36a489/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/42e0cdb8a1d415bc610e6923ec6b16ba/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/539692bc8b641c85f00dd2364e64117e/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/1e5affdc63557dfbd9c4d45fbe255562/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8dd6fc04785e23191436c286cb5a16a1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3ed8dbc29f1006286518dec007c230fd/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/1d8039bc25be35b42b741e24583678aa/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/70fea0dfd999113191ca1294adaf31d1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/065519d8807fc030d37102d74a21219f/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5d390476d20741c61aa60ec61a568b3b/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b426aa709dd478dc20993ca00367441a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b57b14fde3e1cb075c38fe87a5c6de91/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a0cc483347008a0a612d20002640e7fb/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/36e6de9d53102e6baf317255fc8b6c6f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/810670f17a63282d2479c385a1063847/transformed/jetified-play-services-measurement-sdk-20.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3554f82d1716a6993544d816cbd28995/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/db13b83e67d20cfcabf648953f664dc4/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/72d00adcb943fae257d0e212cdb255b0/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5f28d0c97d5e6dcffbb91c28e18d210f/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a71e8df4c4095cda6a0c8d89e3d8625b/transformed/jetified-play-services-measurement-sdk-api-20.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/06456e069b9bcb7c2c967783312fd44c/transformed/jetified-play-services-measurement-base-20.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/96ea317a9dccbea3b534add71923713d/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/62fe2ee457a33b9324bd10bccc27dae0/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b541ae9947f5507c3f245e51205fc834/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7b2d6ff2e71e1c4d704dcde2401261b2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/af0d654fc880d3de7aa257492efd174d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/22a02ae7116cec67773989cfb912ef1b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/973bfa7b0890459433a6ba2755710725/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/d7886562c4788360349197d0196737fb/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/784e55f6d078d52adba5cb47a620c2ab/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b8592a8ddcf1fcb537dbcc58d7120950/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/9d9e6962947171403a3e52032fe7b6f1/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/17282133e15960e3d149c7ec97c6f8b2/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ac4b40edbd9ab142cff2d7081a3d140b/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/2ccf92cf8b9cd7ffeb0b53584267e021/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5764b2b273c0fa9e9ffc2ab4b556d1b8/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/19210694ffc0d0f7f41f755cff5d23df/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/adaf8e3cff0a2c738987c416325178da/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/9f786f97318384c74573d6174b91d1d8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/45d9f3e4f146ec3b1c47b84066d7ba49/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e859020427d76f96bd39991d59bb2703/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/efed449fdc2bc628409b41b80b055d2a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b7fd0849bf805bd164753e9b2296f359/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/979140e7951e511acd58b925bdb56502/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ed27581c9500a3d8cd992f114fce3cb3/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7d3c2d0d52a7b299de40285b288c6675/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/bf17dacc7d125a5bc6317bc7eccabbb5/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/c5db2aa578ce5872bfb3b2851e451a7e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/497e2264766fb7024d1b65b3867dffa5/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/d0c78f54add580234211ed4ea4d927c3/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7a6c711027d2e3ab60ea50b7b18543d8/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:2:3-39
+		INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:2:3-39
+		INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7c81fd74f453a5bddd6a94799ea18850/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7c81fd74f453a5bddd6a94799ea18850/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a71e8df4c4095cda6a0c8d89e3d8625b/transformed/jetified-play-services-measurement-sdk-api-20.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a71e8df4c4095cda6a0c8d89e3d8625b/transformed/jetified-play-services-measurement-sdk-api-20.1.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:5:5-78
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a71e8df4c4095cda6a0c8d89e3d8625b/transformed/jetified-play-services-measurement-sdk-api-20.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a71e8df4c4095cda6a0c8d89e3d8625b/transformed/jetified-play-services-measurement-sdk-api-20.1.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:7:5-39:19
+MERGED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:7:5-39:19
+MERGED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:7:5-39:19
+MERGED from [:clevertap-react-native] /Users/rameshwar/Downloads/clevertap-react-native-integration-master/node_modules/clevertap-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-10:19
+MERGED from [:clevertap-react-native] /Users/rameshwar/Downloads/clevertap-react-native-integration-master/node_modules/clevertap-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-10:19
+MERGED from [com.facebook.react:react-native:0.67.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5741f2fb84ce93459299e9f460d34c11/transformed/jetified-react-native-0.67.5/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.67.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5741f2fb84ce93459299e9f460d34c11/transformed/jetified-react-native-0.67.5/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cb2738010cb57f6540c883ef8b6cb62c/transformed/jetified-firebase-analytics-20.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cb2738010cb57f6540c883ef8b6cb62c/transformed/jetified-firebase-analytics-20.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:9:5-18:19
+MERGED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:9:5-18:19
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:9:5-36:19
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:9:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e56eb293746cf704f710ae0aa4b3dc96/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e56eb293746cf704f710ae0aa4b3dc96/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8ca09e7311fae95b0d3edd703b70c54f/transformed/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8ca09e7311fae95b0d3edd703b70c54f/transformed/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ee7460048d65334aacc82e00cf59cbb0/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ee7460048d65334aacc82e00cf59cbb0/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6e4c5604f2de5ecce1a81434d940671e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6e4c5604f2de5ecce1a81434d940671e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/683c31a8857258abee0df7fa6d08895d/transformed/jetified-installreferrer-2.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/683c31a8857258abee0df7fa6d08895d/transformed/jetified-installreferrer-2.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4d2d0425e71101512dcb2e15702447d6/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4d2d0425e71101512dcb2e15702447d6/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc55e19b0aeeaf0116cb777fb146b91/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc55e19b0aeeaf0116cb777fb146b91/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/551fa5c2d593a07fb30a5ca332b5403a/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/551fa5c2d593a07fb30a5ca332b5403a/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5d390476d20741c61aa60ec61a568b3b/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5d390476d20741c61aa60ec61a568b3b/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/810670f17a63282d2479c385a1063847/transformed/jetified-play-services-measurement-sdk-20.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/810670f17a63282d2479c385a1063847/transformed/jetified-play-services-measurement-sdk-20.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3554f82d1716a6993544d816cbd28995/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3554f82d1716a6993544d816cbd28995/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/db13b83e67d20cfcabf648953f664dc4/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/db13b83e67d20cfcabf648953f664dc4/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/72d00adcb943fae257d0e212cdb255b0/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/72d00adcb943fae257d0e212cdb255b0/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5f28d0c97d5e6dcffbb91c28e18d210f/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5f28d0c97d5e6dcffbb91c28e18d210f/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/06456e069b9bcb7c2c967783312fd44c/transformed/jetified-play-services-measurement-base-20.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/06456e069b9bcb7c2c967783312fd44c/transformed/jetified-play-services-measurement-base-20.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/62fe2ee457a33b9324bd10bccc27dae0/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/62fe2ee457a33b9324bd10bccc27dae0/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b541ae9947f5507c3f245e51205fc834/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b541ae9947f5507c3f245e51205fc834/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/9d9e6962947171403a3e52032fe7b6f1/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/9d9e6962947171403a3e52032fe7b6f1/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/efed449fdc2bc628409b41b80b055d2a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/efed449fdc2bc628409b41b80b055d2a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/9d9e6962947171403a3e52032fe7b6f1/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:9:7-39
+	tools:ignore
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:11:7-52
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:11:7-52
+	tools:targetApi
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:12:7-34
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.reactnativeintegration.MainActivity
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:14:7-24:18
+	android:label
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:launchMode
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:18:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:17:9-86
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:22:23-70
+meta-data#CLEVERTAP_ACCOUNT_ID
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:26:7-28:44
+	android:value
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:28:9-42
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:27:9-44
+meta-data#CLEVERTAP_TOKEN
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:29:7-31:39
+	android:value
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:31:9-37
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:30:9-39
+service#com.reactnativeintegration.MyFirebaseMessagingService
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:33:7-37:17
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:33:16-58
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:34:9-36:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:35:11-71
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml:35:19-69
+uses-sdk
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7c81fd74f453a5bddd6a94799ea18850/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7c81fd74f453a5bddd6a94799ea18850/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4dae4506adf3b11c1e1b2d1edf0c2362/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4dae4506adf3b11c1e1b2d1edf0c2362/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/26d4f033b674f6123140871ed9f09cab/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/26d4f033b674f6123140871ed9f09cab/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:clevertap-react-native] /Users/rameshwar/Downloads/clevertap-react-native-integration-master/node_modules/clevertap-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:clevertap-react-native] /Users/rameshwar/Downloads/clevertap-react-native-integration-master/node_modules/clevertap-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.67.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5741f2fb84ce93459299e9f460d34c11/transformed/jetified-react-native-0.67.5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.67.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5741f2fb84ce93459299e9f460d34c11/transformed/jetified-react-native-0.67.5/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6ca7d0978d86906de9b8a413af67e164/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6ca7d0978d86906de9b8a413af67e164/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cb2738010cb57f6540c883ef8b6cb62c/transformed/jetified-firebase-analytics-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cb2738010cb57f6540c883ef8b6cb62c/transformed/jetified-firebase-analytics-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e56eb293746cf704f710ae0aa4b3dc96/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e56eb293746cf704f710ae0aa4b3dc96/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8ca09e7311fae95b0d3edd703b70c54f/transformed/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8ca09e7311fae95b0d3edd703b70c54f/transformed/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ee7460048d65334aacc82e00cf59cbb0/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ee7460048d65334aacc82e00cf59cbb0/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6e4c5604f2de5ecce1a81434d940671e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6e4c5604f2de5ecce1a81434d940671e/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/d766b70a93d8eef8a21216c4b7fc9202/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/d766b70a93d8eef8a21216c4b7fc9202/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/683c31a8857258abee0df7fa6d08895d/transformed/jetified-installreferrer-2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:2.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/683c31a8857258abee0df7fa6d08895d/transformed/jetified-installreferrer-2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/bc2fdebb5a86e916c80fc429f5a21a68/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/bc2fdebb5a86e916c80fc429f5a21a68/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4d2d0425e71101512dcb2e15702447d6/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4d2d0425e71101512dcb2e15702447d6/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/94d2fdd87ec6ccfb5e7b54f6061d925a/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/94d2fdd87ec6ccfb5e7b54f6061d925a/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc55e19b0aeeaf0116cb777fb146b91/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc55e19b0aeeaf0116cb777fb146b91/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/833d8dee58b9cd7fc7c8afdd1243f6a1/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/833d8dee58b9cd7fc7c8afdd1243f6a1/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/48d6dfdaf25053426eaa8a933687bc91/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/48d6dfdaf25053426eaa8a933687bc91/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f761f8b770cb3d9b4d37523c08e2e3d5/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f761f8b770cb3d9b4d37523c08e2e3d5/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e138067abc67a1e64b396549a333fec4/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e138067abc67a1e64b396549a333fec4/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4fb7c88c5c9d0b4237b8a15308417290/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4fb7c88c5c9d0b4237b8a15308417290/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8cda73b75cbf04c86208101a292bbdb6/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8cda73b75cbf04c86208101a292bbdb6/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e6670a0802ae35352197edb31b089508/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e6670a0802ae35352197edb31b089508/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/0f827931bb3e3fee2aba242687b279e7/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/0f827931bb3e3fee2aba242687b279e7/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b5a88e293a08d498f34574fe778fb43d/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b5a88e293a08d498f34574fe778fb43d/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/2dc0a3b1ec04cbac6c2d2ceb72dc5125/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/2dc0a3b1ec04cbac6c2d2ceb72dc5125/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/551fa5c2d593a07fb30a5ca332b5403a/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/551fa5c2d593a07fb30a5ca332b5403a/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/254a005f5614ca237608e514a0228146/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/254a005f5614ca237608e514a0228146/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6187823ee53c2b6550efddc21a42a66f/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/6187823ee53c2b6550efddc21a42a66f/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/2ed5a02203f492e191f0230c938a9f48/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/2ed5a02203f492e191f0230c938a9f48/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/47ae96932092e6893d9c6d6efd0d4d07/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/47ae96932092e6893d9c6d6efd0d4d07/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3bc9a97543c62a581c9c4e817eef60fc/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3bc9a97543c62a581c9c4e817eef60fc/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b1806be4f851c8698f62b32bfc36a489/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b1806be4f851c8698f62b32bfc36a489/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/42e0cdb8a1d415bc610e6923ec6b16ba/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/42e0cdb8a1d415bc610e6923ec6b16ba/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/539692bc8b641c85f00dd2364e64117e/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/539692bc8b641c85f00dd2364e64117e/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/1e5affdc63557dfbd9c4d45fbe255562/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/1e5affdc63557dfbd9c4d45fbe255562/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8dd6fc04785e23191436c286cb5a16a1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8dd6fc04785e23191436c286cb5a16a1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3ed8dbc29f1006286518dec007c230fd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3ed8dbc29f1006286518dec007c230fd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/1d8039bc25be35b42b741e24583678aa/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/1d8039bc25be35b42b741e24583678aa/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/70fea0dfd999113191ca1294adaf31d1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/70fea0dfd999113191ca1294adaf31d1/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/065519d8807fc030d37102d74a21219f/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/065519d8807fc030d37102d74a21219f/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5d390476d20741c61aa60ec61a568b3b/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5d390476d20741c61aa60ec61a568b3b/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b426aa709dd478dc20993ca00367441a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b426aa709dd478dc20993ca00367441a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b57b14fde3e1cb075c38fe87a5c6de91/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b57b14fde3e1cb075c38fe87a5c6de91/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a0cc483347008a0a612d20002640e7fb/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a0cc483347008a0a612d20002640e7fb/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/36e6de9d53102e6baf317255fc8b6c6f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/36e6de9d53102e6baf317255fc8b6c6f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/810670f17a63282d2479c385a1063847/transformed/jetified-play-services-measurement-sdk-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/810670f17a63282d2479c385a1063847/transformed/jetified-play-services-measurement-sdk-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3554f82d1716a6993544d816cbd28995/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/3554f82d1716a6993544d816cbd28995/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/db13b83e67d20cfcabf648953f664dc4/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/db13b83e67d20cfcabf648953f664dc4/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/72d00adcb943fae257d0e212cdb255b0/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/72d00adcb943fae257d0e212cdb255b0/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5f28d0c97d5e6dcffbb91c28e18d210f/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5f28d0c97d5e6dcffbb91c28e18d210f/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a71e8df4c4095cda6a0c8d89e3d8625b/transformed/jetified-play-services-measurement-sdk-api-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a71e8df4c4095cda6a0c8d89e3d8625b/transformed/jetified-play-services-measurement-sdk-api-20.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/06456e069b9bcb7c2c967783312fd44c/transformed/jetified-play-services-measurement-base-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/06456e069b9bcb7c2c967783312fd44c/transformed/jetified-play-services-measurement-base-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/96ea317a9dccbea3b534add71923713d/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/96ea317a9dccbea3b534add71923713d/transformed/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/62fe2ee457a33b9324bd10bccc27dae0/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/62fe2ee457a33b9324bd10bccc27dae0/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b541ae9947f5507c3f245e51205fc834/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b541ae9947f5507c3f245e51205fc834/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7b2d6ff2e71e1c4d704dcde2401261b2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7b2d6ff2e71e1c4d704dcde2401261b2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/af0d654fc880d3de7aa257492efd174d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/af0d654fc880d3de7aa257492efd174d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/22a02ae7116cec67773989cfb912ef1b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/22a02ae7116cec67773989cfb912ef1b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/973bfa7b0890459433a6ba2755710725/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/973bfa7b0890459433a6ba2755710725/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/d7886562c4788360349197d0196737fb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/d7886562c4788360349197d0196737fb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/784e55f6d078d52adba5cb47a620c2ab/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/784e55f6d078d52adba5cb47a620c2ab/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b8592a8ddcf1fcb537dbcc58d7120950/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b8592a8ddcf1fcb537dbcc58d7120950/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/9d9e6962947171403a3e52032fe7b6f1/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/9d9e6962947171403a3e52032fe7b6f1/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/17282133e15960e3d149c7ec97c6f8b2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/17282133e15960e3d149c7ec97c6f8b2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ac4b40edbd9ab142cff2d7081a3d140b/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ac4b40edbd9ab142cff2d7081a3d140b/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/2ccf92cf8b9cd7ffeb0b53584267e021/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/2ccf92cf8b9cd7ffeb0b53584267e021/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5764b2b273c0fa9e9ffc2ab4b556d1b8/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5764b2b273c0fa9e9ffc2ab4b556d1b8/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/19210694ffc0d0f7f41f755cff5d23df/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/19210694ffc0d0f7f41f755cff5d23df/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/adaf8e3cff0a2c738987c416325178da/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/adaf8e3cff0a2c738987c416325178da/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/9f786f97318384c74573d6174b91d1d8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/9f786f97318384c74573d6174b91d1d8/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/45d9f3e4f146ec3b1c47b84066d7ba49/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/45d9f3e4f146ec3b1c47b84066d7ba49/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e859020427d76f96bd39991d59bb2703/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e859020427d76f96bd39991d59bb2703/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/efed449fdc2bc628409b41b80b055d2a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/efed449fdc2bc628409b41b80b055d2a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b7fd0849bf805bd164753e9b2296f359/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b7fd0849bf805bd164753e9b2296f359/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/979140e7951e511acd58b925bdb56502/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/979140e7951e511acd58b925bdb56502/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ed27581c9500a3d8cd992f114fce3cb3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ed27581c9500a3d8cd992f114fce3cb3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7d3c2d0d52a7b299de40285b288c6675/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7d3c2d0d52a7b299de40285b288c6675/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/bf17dacc7d125a5bc6317bc7eccabbb5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/bf17dacc7d125a5bc6317bc7eccabbb5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/c5db2aa578ce5872bfb3b2851e451a7e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/c5db2aa578ce5872bfb3b2851e451a7e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/497e2264766fb7024d1b65b3867dffa5/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/497e2264766fb7024d1b65b3867dffa5/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/d0c78f54add580234211ed4ea4d927c3/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/d0c78f54add580234211ed4ea4d927c3/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7a6c711027d2e3ab60ea50b7b18543d8/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7a6c711027d2e3ab60ea50b7b18543d8/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:11:9-86
+	android:name
+		ADDED from /Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7c81fd74f453a5bddd6a94799ea18850/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.99.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7c81fd74f453a5bddd6a94799ea18850/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4d2d0425e71101512dcb2e15702447d6/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4d2d0425e71101512dcb2e15702447d6/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc55e19b0aeeaf0116cb777fb146b91/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc55e19b0aeeaf0116cb777fb146b91/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e1fae24303f37beac705684e068a8324/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml:12:17-126
+receiver#com.clevertap.android.pushtemplates.PTPushNotificationReceiver
+ADDED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:10:9-13:40
+	android:enabled
+		ADDED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:11:13-90
+receiver#com.clevertap.android.pushtemplates.PushTemplateReceiver
+ADDED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:14:9-17:40
+	android:enabled
+		ADDED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:16:13-35
+	android:exported
+		ADDED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [com.clevertap.android:push-templates:1.0.5] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cf0fdf028987ba07097ac5a24c474b87/transformed/jetified-push-templates-1.0.5/AndroidManifest.xml:15:13-84
+activity#com.clevertap.android.sdk.InAppNotificationActivity
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:10:9-13:75
+	android:configChanges
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:12:13-51
+	android:theme
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:13:13-72
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:11:13-79
+activity#com.clevertap.android.sdk.inbox.CTInboxActivity
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:14:9-17:77
+	android:configChanges
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:16:13-51
+	android:theme
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:15:13-75
+receiver#com.clevertap.android.sdk.pushnotification.CTPushNotificationReceiver
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:19:9-22:40
+	android:enabled
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:21:13-35
+	android:exported
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:20:13-97
+service#com.clevertap.android.sdk.pushnotification.amp.CTBackgroundIntentService
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:24:9-31:19
+	android:exported
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:26:13-37
+	android:permission
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:25:13-100
+intent-filter#action:name:com.clevertap.BG_EVENT
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:28:13-30:29
+action#com.clevertap.BG_EVENT
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:29:17-65
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:29:25-62
+service#com.clevertap.android.sdk.pushnotification.amp.CTBackgroundJobService
+ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:32:9-35:72
+	android:exported
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:34:13-37
+	android:permission
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from [com.clevertap.android:clevertap-android-sdk:4.6.6] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/cc8e7b9a89f2c30a0d55b9fdd07156a4/transformed/jetified-clevertap-android-sdk-4.6.6/AndroidManifest.xml:33:13-97
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e56eb293746cf704f710ae0aa4b3dc96/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e56eb293746cf704f710ae0aa4b3dc96/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e56eb293746cf704f710ae0aa4b3dc96/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/e56eb293746cf704f710ae0aa4b3dc96/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a71e8df4c4095cda6a0c8d89e3d8625b/transformed/jetified-play-services-measurement-sdk-api-20.1.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a71e8df4c4095cda6a0c8d89e3d8625b/transformed/jetified-play-services-measurement-sdk-api-20.1.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:23:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/f0421a8ea6c5f57bfb621a5410bbc22e/transformed/jetified-play-services-cloud-messaging-17.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:29:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:32:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:33:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:33:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:42:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/7afe5b4a6e1826ecfb18e40170518fb6/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:53:17-119
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:2.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/683c31a8857258abee0df7fa6d08895d/transformed/jetified-installreferrer-2.2/AndroidManifest.xml:9:5-110
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/032a45277b1c20584bf5bc1f8f5cb973/transformed/jetified-play-services-measurement-impl-20.1.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:2.2] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/683c31a8857258abee0df7fa6d08895d/transformed/jetified-installreferrer-2.2/AndroidManifest.xml:9:22-107
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4d2d0425e71101512dcb2e15702447d6/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4d2d0425e71101512dcb2e15702447d6/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4d2d0425e71101512dcb2e15702447d6/transformed/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/8b54a513d295022f8c77e43d94f8fa29/transformed/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc55e19b0aeeaf0116cb777fb146b91/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc55e19b0aeeaf0116cb777fb146b91/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc55e19b0aeeaf0116cb777fb146b91/transformed/jetified-firebase-common-ktx-20.0.0/AndroidManifest.xml:16:17-113
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a3b07ad695e57e1d206ae032305ef7fa/transformed/jetified-play-services-measurement-api-20.1.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/ecc017e9cc521b94da5c747f9d9cef25/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5bf4ae59a6940f66d522170e87df0bcc/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/4153520b748f5f51ea89d04c321ca48d/transformed/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.1.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/a565c6f014de06a7b52e0b82b36501a5/transformed/jetified-play-services-measurement-20.1.0/AndroidManifest.xml:40:13-87
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5f28d0c97d5e6dcffbb91c28e18d210f/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/5f28d0c97d5e6dcffbb91c28e18d210f/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b541ae9947f5507c3f245e51205fc834/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b541ae9947f5507c3f245e51205fc834/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/b541ae9947f5507c3f245e51205fc834/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58

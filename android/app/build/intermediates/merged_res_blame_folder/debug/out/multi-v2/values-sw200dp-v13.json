@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rameshwar/Downloads/clevertap-react-native-integration-master/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw200dp-v13/values-sw200dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/rameshwar/Downloads/ReactCTvishal/ReactCTvishal/android/gradle/caches/transforms-3/14a4fe10b7f1b26f7efeede6aa55d7fa/transformed/jetified-push-templates-1.0.4/res/values-sw200dp-v13/values-sw200dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,151",
+                        "endColumns": "46,48,45",
+                        "endOffsets": "97,146,192"
+                    }
+                }
+            ]
+        }
+    ]
+}
