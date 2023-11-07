@@ -13,27 +13,26 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
     @Override
     public void onMessageReceived(RemoteMessage message){
 
-        new CTFcmMessageHandler()
-                .createNotification(getApplicationContext(), message);
+        
 
-//        try {
-//            if (message.getData().size() > 0) {
-//                Bundle extras = new Bundle();
-//                for (Map.Entry<String, String> entry : message.getData().entrySet()) {
-//                    extras.putString(entry.getKey(), entry.getValue());
-//                }
-//                Log.e("TAG","onReceived Mesaage Called");
-//                NotificationInfo info = CleverTapAPI.getNotificationInfo(extras);
-//                if (info.fromCleverTap) {
-//                   // CleverTapAPI.createNotification(getApplicationContext(), extras);
-//
-//
-//                }
-//                Log.d("pay",extras.toString());
-//            }
-//        } catch (Throwable t) {
-//            Log.d("MYFCMLIST", "Error parsing FCM message", t);
-//        }
+       try {
+           if (message.getData().size() > 0) {
+               Bundle extras = new Bundle();
+               for (Map.Entry<String, String> entry : message.getData().entrySet()) {
+                   extras.putString(entry.getKey(), entry.getValue());
+               }
+               Log.e("TAG","onReceived Mesaage Called");
+               NotificationInfo info = CleverTapAPI.getNotificationInfo(extras);
+               if (info.fromCleverTap) {
+                  new CTFcmMessageHandler().createNotification(getApplicationContext(), message);
+               }else{
+// Handle your firebase push here
+               }
+               Log.d("pay",extras.toString());
+           }
+       } catch (Throwable t) {
+           Log.d("MYFCMLIST", "Error parsing FCM message", t);
+       }
     }
     @Override
     public void onNewToken(String token) {
