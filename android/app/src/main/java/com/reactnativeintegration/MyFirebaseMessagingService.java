@@ -12,9 +12,6 @@ import java.util.Map;
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
     @Override
     public void onMessageReceived(RemoteMessage message){
-
-        
-
        try {
            if (message.getData().size() > 0) {
                Bundle extras = new Bundle();
@@ -26,7 +23,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
                if (info.fromCleverTap) {
                   new CTFcmMessageHandler().createNotification(getApplicationContext(), message);
                }else{
-// Handle your firebase push here
+                    // Handle your firebase push here
                }
                Log.d("pay",extras.toString());
            }
